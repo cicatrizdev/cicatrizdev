@@ -7,11 +7,10 @@
 ### My name is Pedro, a.k.a Cicatriz 
 
 - 📌 Living in São Paulo/BR.
-- 💼 Working as front-end @ Safra Bank.
+- 💼 I'm a front-end guy @ Blu.
 - 🎓 Undergraduate, finishing my BTech. in Analysis and Systems Development.
-- 📚 Targeting my graduate in Digital Design.
-- 🚀 My stack is basically Javascript. I also know a bit of Python, C# and Java.
-- 💻 I work well with ReactJS/React Native, AngularJS, Angular 7+, Express.js, Gatsby, MongoDB, Postgres and Design tools.
+- 🚀 My stack is basically Javascript. I also know a bit of Python, C#, Java and Dart.
+- 💻 I work well with ReactJS/React Native, AngularJS, Angular 7+, Express.js, Gatsby, Next.js, MongoDB, Postgres and Design tools.
 
 ### A little bit more about me
 
