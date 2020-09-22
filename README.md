@@ -14,8 +14,8 @@
 
 ### A little bit more about me
 
-- 💡 I have a personal blog, where I talk about technology. It's an irreverent blog,  and the main objective is to bring information for technology enthusiasts and new developers, with some jokes and my own opinion. Check this out! Link [here](https://pedro-mello.netlify.app/).
-- 🎯 Seeking help more and more people, I create a project called "Adopt a Dev", and you can learn more following this link [here](https://github.com/cicatrizwp/adote-um-dev).
+- 💡 I have a personal blog, where I talk about technology. It's an irreverent blog,  and the main objective is bring information for technology enthusiasts and new developers, with some jokes and my own opinion. Check this out! Link [here](https://pedro-mello.netlify.app/).
+- 🎯 Seeking help even more people, I create a project called "Adopt a Dev", and you can learn more following this link [here](https://github.com/pedrocmello/adote-um-dev).
 - 🍺 In my free time, I like to drink a good beer and I also like to cook.
 - 🔜 Have a future project to do some live codes, working on a personal project or just studying.
 - 🧭 I have a dream to become a good Tech Lead, someday, without losing the *hands-on* job. To make this real, I'll keep deepen my studies into front-end development.
