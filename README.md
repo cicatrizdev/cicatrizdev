@@ -7,10 +7,11 @@
 ### My name is Pedro, a.k.a Cicatriz 
 
 - 📌 Living in São Paulo/BR.
-- 💼 I'm a front-end guy @ Blu.
+- 💼 Working remotely @ Blu.
+- 📝 Tutor of Mobile App Devs Bootcamp @ IGTI
 - 🎓 Undergraduate, finishing my BTech. in Analysis and Systems Development.
-- 🚀 My stack is basically Javascript. I also know a bit of Python, C#, Java and Dart.
-- 💻 I work well with ReactJS/React Native, AngularJS, Angular 7+, Express.js, Gatsby, Next.js, MongoDB, Postgres and Design tools.
+- 🚀 Javascript boy but I also know a bit of Python, C#, Java and Dart.
+- 💻 I work well with ReactJS/React Native, Flutter, Express.js, Gatsby, Next.js, Postgres and Design tools.
 
 ### A little bit more about me
 
