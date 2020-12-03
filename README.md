@@ -1,7 +1,7 @@
 ## Howdy! Welcome to my GitHub Profile!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-c-mello/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5549988239222&text=Olá!)](https://api.whatsapp.com/send?phone=5532999255105&text=Fala,cicatriz!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5532999255105&text=Fala,cicatriz!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leu1607@gmail.com)](mailto:pedrocmello.bsi@gmail.com)
 
 ### My name is Pedro, a.k.a Cicatriz 
