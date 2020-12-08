@@ -1,6 +1,6 @@
 ## Howdy! Welcome to my GitHub Profile!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computer">
+<img src="https://image.freepik.com/free-vector/coding-round-composition_1284-40752.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="computer">
 
 <p align="left">
   <a href="mailto:pedrocmello.bsi@gmail.com" alt="Gmail " target="_blank" rel="noreferrer noopener">
