@@ -1,16 +1,19 @@
 ## Howdy! Welcome to my GitHub Profile!
 
-<img src="https://image.freepik.com/free-vector/coding-round-composition_1284-40752.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="computer">
+<img src="https://image.freepik.com/free-vector/programmer-concept-illustration_114360-2417.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="dev illustration">
 
 <p align="left">
   <a href="mailto:pedrocmello.bsi@gmail.com" alt="Gmail " target="_blank" rel="noreferrer noopener">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedrocmello.bsi@gmail.com" /></a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedrocmello.bsi@gmail.com" />
+  </a>
 
   <a href="https://www.linkedin.com/in/pedro-c-mello/" alt="Linkedin" target="_blank" rel="noreferrer noopener">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-c-mello/" /></a>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-c-mello/" />
+  </a>
 
   <a href="https://api.whatsapp.com/send?phone=5532999255105&text=Fala,cicatriz!" alt="WhatsApp" target="_blank" rel="noreferrer noopener">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5532999255105&text=Fala,cicatriz!" /></a>
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5532999255105&text=Fala,cicatriz!" />
+  </a>
 </p>  
 
 ### My name is Pedro, a.k.a "Cicatriz"
