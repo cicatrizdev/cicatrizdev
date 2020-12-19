@@ -22,7 +22,7 @@
   📌 Location: <strong>Living in São Paulo/BR.</strong>
 </p>
 <p align="left">
-  💼 Formal job: <strong>Working remotely @ Blu.</strong>
+  💼 Formal job: <strong>Working remotely @ RCHLO.</strong>
 </p>
 <p align="left">
   📝 Extra job: <strong>Tutor of Mobile App Devs Bootcamp @ IGTI.</strong>
