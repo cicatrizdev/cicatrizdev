@@ -19,13 +19,13 @@
 ### My name is Pedro, a.k.a "Cicatriz"
 
 <p align="left">
-  📌 Location: <strong>Living in São Paulo/BR.</strong>
+  📌 Location: <strong>São Paulo/BR.</strong>
 </p>
 <p align="left">
-  💼 Formal job: <strong>Working remotely @ RCHLO.</strong>
+  💼 Job: <strong>Working remotely @ RCHLO.</strong>
 </p>
 <p align="left">
-  📝 Extra job: <strong>Tutor of Mobile App Devs Bootcamp @ IGTI.</strong>
+  📝 Teaching: <strong>Tutor of Mobile App Devs Bootcamp @ IGTI.</strong>
 </p>
 <p align="left">
   🚀 Programming languages: <strong>Javascript, Dart, Python and PHP.</strong>
