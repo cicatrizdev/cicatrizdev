@@ -19,7 +19,7 @@
 ### My name is Pedro, a.k.a "Cicatriz"
 
 <p align="left">
-  📌 Location: <strong>São Paulo/BR.</strong>
+  📌 Location: <strong>Juiz de Fora/BR.</strong>
 </p>
 <p align="left">
   💼 Job: <strong>Working remotely @ RCHLO.</strong>
