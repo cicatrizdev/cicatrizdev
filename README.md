@@ -25,13 +25,13 @@
   💼 Job: <strong>Working remotely @ RCHLO.</strong>
 </p>
 <p align="left">
-  📝 Teaching: <strong>Tutor of Mobile App Devs Bootcamp @ IGTI.</strong>
+  📝 Teaching: <strong>Teacher of Mobile App Developer, Begginer Software Developer and Software Architect Bootcamps @ IGTI.</strong>
 </p>
 <p align="left">
-  🚀 Programming languages: <strong>Javascript, Dart, Python and PHP.</strong>
+  🚀 Programming languages: <strong>Javascript, TypeScript, Dart, and Python.</strong>
 </p>
 <p align="left">
-  💻 Tools/Frameworks: <strong>ReactJS/React Native, Flutter, Express.js, Gatsby, Next.js, Postgres, Laravel/Lumen, Flask and Design tools (Figma, Photoshop).</strong>
+  💻 Tools/Frameworks: <strong>ReactJS/React Native, Flutter, Express.js, Gatsby, Next.js, Postgres, Flask and Design tools (Figma, Photoshop).</strong>
 </p>
 <p align="left">
   🎓 Studies: <strong>Undergraduate, finishing my BTech. in Analysis and Systems Development.</strong>
@@ -49,5 +49,5 @@
   🍺 In my free time, I like to drink a good beer and I also like to cook.
 </p>
 <p align="left">
-  🧭 I have a dream to become a good Tech Lead, someday, without losing the *hands-on* job. To make this real, I'll keep deepen my studies into front-end development.
+  🧭 I have a dream to become a good Tech Lead, someday, without losing the <strong>hands-on</strong> job. To make this real, I'll keep deepen my studies into front-end development.
 </p>  
