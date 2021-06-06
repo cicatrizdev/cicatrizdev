@@ -25,7 +25,7 @@
   💼 Job: <strong>Working remotely @ RCHLO.</strong>
 </p>
 <p align="left">
-  📝 Teaching: <strong>Teacher of Mobile App Developer, Begginer Software Developer and Software Architect Bootcamps @ IGTI.</strong>
+  📝 Teaching: <strong>Teacher of Mobile App Develope and Begginer Software Developer @ IGTI.</strong>
 </p>
 <p align="left">
   🚀 Programming languages: <strong>Javascript, TypeScript, Dart, and Python.</strong>
