@@ -19,35 +19,35 @@
 ### My name is Pedro, a.k.a "Cicatriz"
 
 <p align="left">
-  📌 Location: <strong>Juiz de Fora/BR.</strong>
+  📌 &nbsp; Location: <strong>Juiz de Fora/BR.</strong>
 </p>
 <p align="left">
-  💼 Job: <strong>Working remotely @ RCHLO.</strong>
+  💼 &nbsp; Job: <strong>Working remotely @ RCHLO.</strong>
 </p>
 <p align="left">
-  📝 Teaching: <strong>Teacher of Mobile Apps Developer and Beginner Software Developer @ IGTI.</strong>
+  📝 &nbsp; Teaching: <strong>Teacher of Mobile Apps Developer and Beginner Software Developer Bootcamps @ IGTI.</strong>
 </p>
 <p align="left">
-  🚀 Programming languages: <strong>Javascript, TypeScript, PHP, Python and Dart.</strong>
+  🚀 &nbsp; Programming languages: <strong>Javascript, TypeScript, PHP, Python and Dart.</strong>
 </p>
 <p align="left">
-  💻 Tools/Frameworks: <strong>ReactJS/React Native, Express.js, Gatsby, Next.js, Ruby on Rails, Flask, Flutter, Postgres, Java (Android) and Design tools (Figma, Photoshop).</strong>
+  💻 &nbsp; Tools/Frameworks: <strong>ReactJS/React Native, Express.js, Gatsby, Next.js, Ruby on Rails, Flask, Flutter, Postgres, Java (Android) and Design tools (Figma, Photoshop).</strong>
 </p>
 <p align="left">
-  🎓 Studies: <strong>Undergraduate, finishing my BTech. in Analysis and Systems Development.</strong>
+  🎓 &nbsp; Studies: <strong>Doing my Postgraduate education in Strategic Information Technology Management. Finished my BTech. in Analysis and Systems Development.</strong>
 </p>
 
 ### A little bit more about me
 
 <p align="left">
-  💡 I have a personal web site. You can send me a message and we could work together :) Check this out! Link <a href="https://cicatriz.dev" alt="personal web site" target="_blank" rel="noreferrer noopener">here</a>.
+  💡 &nbsp; I have a personal web site. You can send me a message and we could work together :) Check this out! Link <a href="https://cicatriz.dev" alt="personal web site" target="_blank" rel="noreferrer noopener">here</a>.
 </p>
 <p align="left">
-  🎯 Seeking help even more people, I create a project called "Adopt a Dev", and you can learn more following this link <a href="https://github.com/pedrocmello/adote-um-dev" alt="adopt a dev link" target="_blank" rel="noreferrer noopener">here</a>.
+  🎯 &nbsp; Seeking help even more people, I create a project called "Adopt a Dev", and you can learn more following this link <a href="https://github.com/pedrocmello/adote-um-dev" alt="adopt a dev link" target="_blank" rel="noreferrer noopener">here</a>.
 </p>
 <p align="left">
-  🍺 In my free time, I like to drink a good beer and I also like to cook.
+  🍺 &nbsp; In my free time, I like to go out with my wife and our dogs, hava a nice beer, get on the road and I also like to cook.
 </p>
 <p align="left">
-  🧭 I have a dream to become a Tech Lead, someday, without losing the <strong>hands-on</strong> job. To make this real, I'll keep deepen my studies into front-end development.
+  🧭 &nbsp; I have a dream to become a Tech Lead, someday, without losing the <strong>hands-on</strong> job. To make this real, I'll keep deepen my studies into front-end development.
 </p>  
