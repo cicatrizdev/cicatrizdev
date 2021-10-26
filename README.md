@@ -16,7 +16,7 @@
   📌 &nbsp; <strong>🇧🇷</strong>
 </p>
 <p align="left">
-  💼 &nbsp; Software Engineer Specialist working remotely for <strong>RCHLO</strong> and <strong>COMING SOON 🤫</strong>.
+  💼 &nbsp; Software Engineer Specialist working remotely for <strong>RCHLO</strong> and <strong>X-Team</strong>.
 </p>
 <p align="left">
   📝 &nbsp; Intructor of <strong>Mobile Apps Developer</strong> and <strong>Beginner Software Developer</strong> Bootcamps <stromg>@ IGTI.</strong>
