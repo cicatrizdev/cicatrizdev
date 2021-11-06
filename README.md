@@ -13,13 +13,10 @@
 ### My name is Pedro, a.k.a "Cicatriz"
 
 <p align="left">
-  📌 &nbsp; <strong>🇧🇷</strong>
+  📌 &nbsp; BR <strong>🇧🇷</strong>
 </p>
 <p align="left">
-  💼 &nbsp; Software Engineer Specialist working remotely for <strong>RCHLO</strong> and <strong>X-Team</strong>.
-</p>
-<p align="left">
-  📝 &nbsp; Intructor of <strong>Mobile Apps Developer</strong> and <strong>Beginner Software Developer</strong> Bootcamps <stromg>@ IGTI.</strong>
+  💼 &nbsp; Software Engineer working remotely for <strong>RCHLO</strong> and <strong>X-Team</strong>.
 </p>
 <p align="left">
   🚀 &nbsp; Programming languages: Basically <strong>Javascript and TypeScript</strong> but I have knowlegde of <strong>C#, Java, Python, Dart</strong> and I'm currently learning <strong>Rust</strong>.
