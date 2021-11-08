@@ -16,10 +16,10 @@
   📌 &nbsp; BR <strong>🇧🇷</strong>
 </p>
 <p align="left">
-  💼 &nbsp; Software Engineer working remotely for <strong>RCHLO</strong> and <strong>X-Team</strong>.
+  💼 &nbsp; Software Engineer, focused in <strong>Mobile</strong> and <strong>Front-end</strong> development.
 </p>
 <p align="left">
-  🚀 &nbsp; Programming languages: Basically <strong>Javascript and TypeScript</strong> but I have knowlegde of <strong>C#, Java, Python, Dart</strong> and I'm currently learning <strong>Rust</strong>.
+  🚀 &nbsp; Programming Languages: Basically <strong>Javascript and TypeScript</strong> but I have knowlegde of <strong>C#, Java, Python, Dart</strong> and I'm currently learning <strong>Rust</strong>.
 </p>
 <p align="left">
   💻 &nbsp; Tools/Frameworks: <strong>ReactJS/React Native, Express.js, Gatsby, Next.js, Ruby on Rails, Flask, Flutter, Postgres, Java (Android) and Design tools (Figma, Photoshop).</strong>
