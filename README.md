@@ -16,25 +16,23 @@
   📌 &nbsp; BR <strong>🇧🇷</strong>
 </p>
 <p align="left">
-  💼 &nbsp; Software Engineer, focused in <strong>Mobile</strong> and <strong>Front-end</strong> development.
+  💼 &nbsp; Senior Software Engineer, focused in <strong>Mobile</strong> and <strong>Front-end</strong> development.
 </p>
 <p align="left">
-  🚀 &nbsp; Programming Languages: Basically <strong>Javascript and TypeScript</strong> but I have knowlegde of <strong>C#, Java, Python, Dart</strong> and I'm currently learning <strong>Rust</strong>.
+  🚀 &nbsp; Programming Languages: Basically <strong>Javascript and TypeScript</strong> but can handle with <strong>C#, Java, Python, Dart</strong> and I'm currently learning <strong>Rust</strong>. #KMF
 </p>
 <p align="left">
-  💻 &nbsp; Tools/Frameworks: <strong>ReactJS/React Native, Express.js, Gatsby, Next.js, Ruby on Rails, Flask, Flutter, Postgres, Java (Android) and Design tools (Figma, Photoshop).</strong>
+  💻 &nbsp; Tools/Frameworks: <strong>ReactJS/React Native, Express.js, Gatsby, Next.js, Flask, Flutter, Postgres, and Design tools (Figma, Photoshop).</strong>
 </p>
-<p align="left">
-  🎓 &nbsp; Doing my Postgraduate education in Strategic Information Technology Management. Finished my BTech. in Analysis and Systems Development.
-</p>
+
 
 ### A little bit more about me
 
 <p align="left">
-  💡 &nbsp; I have a personal web site. You can send me a message and we could work together :) Check this out! Link <a href="https://cicatriz.dev" alt="personal web site" target="_blank" rel="noreferrer noopener">here</a>.
+  💡 &nbsp; I have a personal website. You can send me a message using the website's form to reach me out :) Link <a href="https://cicatriz.dev" alt="personal web site" target="_blank" rel="noreferrer noopener">here</a>.
 </p>
 <p align="left">
-  🎯 &nbsp; Seeking help even more people, I create a project called "Adopt a Dev", and you can learn more following this link <a href="https://github.com/pedrocmello/adote-um-dev" alt="adopt a dev link" target="_blank" rel="noreferrer noopener">here</a>.
+  🎯 &nbsp; Seeking help even more people, I create a project called "Adopt a Dev", and you can learn more following this link <a href="https://github.com/pedrocmello/adote-um-dev" alt="adopt a dev link" target="_blank" rel="noreferrer noopener">here</a> (pt-BR only).
 </p>
 <p align="left">
   🍺 &nbsp; In my free time, I like to go out with my wife and our dogs 👩‍❤️‍👨🐶, watch footbal 🏈, have a nice beer 🍻, get on the road 🚗 and I also like to cook 🥣.
