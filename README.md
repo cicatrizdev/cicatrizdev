@@ -19,7 +19,7 @@
   💼 &nbsp; Senior Software Engineer, focused in <strong>Mobile</strong> and <strong>Front-end</strong> development.
 </p>
 <p align="left">
-  🚀 &nbsp; Programming Languages: Basically <strong>Javascript and TypeScript</strong> but can handle with <strong>C#, Java, Python, Dart</strong> and I'm currently learning <strong>Rust</strong>. #KMF
+  🚀 &nbsp; Programming Languages: Basically <strong>Javascript and TypeScript</strong> but I can handle with <strong>C#, Java, Python, Dart</strong> and I'm currently learning <strong>Rust</strong>. #KMF
 </p>
 <p align="left">
   💻 &nbsp; Tools/Frameworks: <strong>ReactJS/React Native, Express.js, Gatsby, Next.js, Flask, Flutter, Postgres, and Design tools (Figma, Photoshop).</strong>
