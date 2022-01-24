@@ -35,7 +35,7 @@
   🎯 &nbsp; Seeking help even more people, I create a project called "Adopt a Dev", and you can learn more following this link <a href="https://github.com/pedrocmello/adote-um-dev" alt="adopt a dev link" target="_blank" rel="noreferrer noopener">here</a> (pt-BR only).
 </p>
 <p align="left">
-  🍺 &nbsp; In my free time, I like to go out with my wife and our dogs 👩‍❤️‍👨🐶, watch footbal 🏈, have a nice beer 🍻, get on the road 🚗 and I also like to cook 🥣.
+  🍺 &nbsp; In my free time, I like to go out with my wife and our dogs 👩‍❤️‍👨🐶, watch football 🏈, have a nice beer 🍻, get on the road 🚗 and I also like to cook 🥣.
 </p>
 <p align="left">
   🧭 &nbsp; I have a dream to become a Tech Lead, someday, without losing the <strong>hands-on</strong> job. To make this real, I'll keep deepen my studies into mobile and web architecture.
