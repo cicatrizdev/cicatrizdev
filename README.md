@@ -1,8 +1,8 @@
 ## Howdy! Welcome to my GitHub Profile!
 
 <p align="left">
-  <a href="mailto:pedrocmello.bsi@gmail.com" alt="Gmail " target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedrocmello.bsi@gmail.com" />
+  <a href="mailto:contato@cicatriz.dev" alt="Gmail " target="_blank" rel="noreferrer noopener">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:contato@cicatriz.dev" />
   </a>
 
   <a href="https://www.linkedin.com/in/pedro-c-mello/" alt="Linkedin" target="_blank" rel="noreferrer noopener">
