@@ -16,7 +16,7 @@
   📌 &nbsp; BR <strong>🇧🇷</strong>
 </p>
 <p align="left">
-  💼 &nbsp; Senior Software Engineer, focused in <strong>Mobile</strong> and <strong>Front-end</strong> development.
+  💼 &nbsp; Lead Software Engineer @ RCHLO and Senior Software Engineer @ X-Team, focused in <strong>Mobile</strong> and <strong>Front-end</strong> development.
 </p>
 <p align="left">
   🚀 &nbsp; Programming Languages: Basically <strong>Javascript and TypeScript</strong> but I can handle with <strong>C#, Java, Python, Dart</strong> and I'm currently learning <strong>Rust</strong>. #KMF
