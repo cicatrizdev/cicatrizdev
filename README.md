@@ -1,4 +1,4 @@
-## Howdy! Welcome to my GitHub Profile!
+## Sup! My name is Pedro 🇧🇷
 
 <p align="left">
   <a href="mailto:contato@cicatriz.dev" alt="Gmail " target="_blank" rel="noreferrer noopener">
@@ -10,19 +10,17 @@
   </a>
 </p>  
 
-### My name is Pedro, a.k.a "Cicatriz"
-
 <p align="left">
-  📌 &nbsp; BR <strong>🇧🇷</strong>
+  <strongstrong>
 </p>
 <p align="left">
-  💼 &nbsp; Lead Software Engineer @ RCHLO and Senior Software Engineer @ X-Team, focused in <strong>Mobile</strong> and <strong>Front-end</strong> development.
+  💼 &nbsp; Software Engineer with 7+ years of experience.
 </p>
 <p align="left">
-  🚀 &nbsp; Programming Languages: Basically <strong>Javascript and TypeScript</strong> but I can handle with <strong>C#, Java, Python, Dart</strong> and I'm currently learning <strong>Rust</strong>. #KMF
+  🚀 &nbsp; Programming Languages: <strong>Javascript, TypeScript, C#, Java, Python, Dart, Rust</strong>.
 </p>
 <p align="left">
-  💻 &nbsp; Tools/Frameworks: <strong>ReactJS/React Native, Express.js, Gatsby, Next.js, Flask, Flutter, Postgres, and Design tools (Figma, Photoshop).</strong>
+  💻 &nbsp; Tools/Frameworks: <strong>ReactJS, React Native, Express.js, Gatsby, Next.js, Flask, Flutter, Postgres, MongoDB, AWS, Azure, Design tools (Figma, Photoshop).</strong>
 </p>
 
 
