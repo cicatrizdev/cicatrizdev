@@ -1,4 +1,4 @@
-## Sup! My name is Pedro 🇧🇷
+## Sup! My name is Pedro
 
 <p align="left">
   <a href="mailto:contato@cicatriz.dev" alt="Gmail " target="_blank" rel="noreferrer noopener">
