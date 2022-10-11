@@ -1,4 +1,4 @@
-## Sup! My name is Pedro
+## Hello! My name is Pedro, nice to meet you!
 
 <p align="left">
   <a href="mailto:contato@cicatriz.dev" alt="Gmail " target="_blank" rel="noreferrer noopener">
@@ -11,20 +11,17 @@
 </p>  
 
 <p align="left">
-  <strongstrong>
+  📍 &nbsp; 🇧🇷
 </p>
 <p align="left">
-  💼 &nbsp; Software Engineer with 7+ years of experience.
+  💼 &nbsp; Software Engineer with 8+ years of experience.
 </p>
 <p align="left">
-  🚀 &nbsp; Programming Languages: <strong>Javascript, TypeScript, C#, Java, Python, Dart, Rust</strong>.
+  🚀 &nbsp; Programming Languages: <strong>Javascript, TypeScript, Python, Dart, Rust</strong>.
 </p>
 <p align="left">
-  💻 &nbsp; Tools/Frameworks: <strong>ReactJS, React Native, Express.js, Gatsby, Next.js, Flask, Flutter, Postgres, MongoDB, AWS, Azure, Design tools (Figma, Photoshop).</strong>
+  💻 &nbsp; Frameworks: <strong>ReactJS, React Native, Express.js, Gatsby, Next.js, Flask, Flutter, Postgres, MongoDB, AWS, Azure</strong>.
 </p>
-
-
-### A little bit more about me
 
 <p align="left">
   💡 &nbsp; I have a personal website. You can send me a message using the website's form to reach me out :) Link <a href="https://cicatriz.dev" alt="personal web site" target="_blank" rel="noreferrer noopener">here</a>.
