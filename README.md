@@ -11,9 +11,6 @@
 </p>  
 
 <p align="left">
-  📍 &nbsp; 🇧🇷
-</p>
-<p align="left">
   💼 &nbsp; Software Engineer with 8+ years of experience.
 </p>
 <p align="left">
