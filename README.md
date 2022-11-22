@@ -1,4 +1,4 @@
-## Hello! My name is Pedro, nice to meet you!
+## Hello! My name is Pedro (aka Cicatriz), nice to meet you!
 
 <p align="left">
   <a href="mailto:contato@cicatriz.dev" alt="Gmail " target="_blank" rel="noreferrer noopener">
@@ -27,5 +27,5 @@
   🍺 &nbsp; In my free time, I like to go out with my wife and our dogs 👩‍❤️‍👨🐶, watch football 🏈, have a nice beer 🍻, get on the road 🚗 and I also like to cook 🥣.
 </p>
 <p align="left">
-  🧭 &nbsp; I have a dream to become a Tech Lead, someday, without losing the <strong>hands-on</strong> job. To make this real, I'll keep deepen my studies into mobile and web architecture.
+  🧭 &nbsp; I have a dream to become a Tech Lead, someday. To make this real, I'll keep deepen my studies into mobile and web architecture.
 </p>  
