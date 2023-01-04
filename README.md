@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-c-mello/" />
   </a>
 </p> 
-  <a href="https://app.daily.dev/cicatrizdev"><img  width="256" align="right" src="https://api.daily.dev/devcards/76c9436598414b69b7f74fb06b9436e6.png?r=ubp" width="400" alt="Pedro Mello's Dev Card"/></a>
+  <a href="https://app.daily.dev/cicatrizdev"><img align="right" src="https://github.com/cicatrizdev/cicatrizdev/blob/master/devcard.svg" width="260" alt="Pedro Mello's Dev Card"/></a>
 </div>
 
 ## I'm Pedro (a.k.a Cicatriz)
