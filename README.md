@@ -28,6 +28,3 @@
 <p align="left">
   💡 &nbsp; You can send me a message using my personal website's form to reach me out :) Link <a href="https://cicatriz.dev" alt="personal web site" target="_blank" rel="noreferrer noopener">here</a>.
 </p>
-<p align="left">
-  🧭 &nbsp; I have a dream to become a Tech Lead, someday. To make this real, I'll keep deepen my studies into mobile and web architecture.
-</p>  
