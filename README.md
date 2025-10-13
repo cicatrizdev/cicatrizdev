@@ -9,7 +9,7 @@
 
 ## I'm Pedro (a.k.a Cicatriz)
 
-⤷ Software Engineer with over 8 years of experience
+⤷ Software Engineer with over 10 years of experience
 
 ⚐ Based in Brazil
 
