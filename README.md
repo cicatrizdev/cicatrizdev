@@ -1,22 +1,53 @@
-## Sup! 👋
+# Hey there! I'm Pedro 👋
 
-<div align="left">
-<p align="left">
-<a aligh="left" href="https://cicatriz.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a>   <a aligh="left" href="mailto:contato@cicatriz.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>   <a aligh="left" href="https://www.linkedin.com/in/pedro-c-mello" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
-</p> 
-  <a href="https://app.daily.dev/cicatrizdev"><img align="right" src="https://github.com/cicatrizdev/cicatrizdev/blob/master/devcard.svg" width="260" alt="Pedro Mello's Dev Card"/></a>
+<div align="center">
+
+<a href="https://cicatriz.dev" target="_blank" rel="noreferrer noopener">
+  <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Personal Website" width="32" height="32" />
+</a>
+
+<a href="https://app.daily.dev/cicatrizdev">
+  <img align="right" src="https://github.com/cicatrizdev/cicatrizdev/blob/master/devcard.svg" width="260" alt="Pedro Mello's Dev Card"/>
+</a>
+
 </div>
 
-## I'm Pedro (a.k.a Cicatriz)
+## About Me
 
-⤷ Software Engineer with over 10 years of experience
+> **Software Engineer** with 10+ years of experience building mobile & web applications.
 
-⚐ Based in Brazil
+- 📍 Based in **Brazil**
+- 🚀 Currently crafting amazing apps at [X-Team](https://github.com/x-team) & [Cosm](https://github.com/cosm-eng)
+- 🎓 Front-end Instructor at [Alura](https://www.alura.com.br)
+- 💬 Always happy to connect — [reach out here](https://cicatriz.dev)
 
-ϟ Currently building amazing mobile and web apps @ [X-Team](https://github.com/x-team) | [Cosm](https://github.com/cosm-eng)
+---
 
-ϟ Front-end Instructor @ [Alura](https://www.alura.com.br)
+## 🛠️ Tech Stack
 
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25"/></a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/extra/flutter.svg" alt="Flutter" width="25" height="25"/></a> <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/swift.svg" alt="Swift" width="25" height="25" /></a> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/kotlin.svg" alt="Kotlin" width="25" height="25"/></a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/rust.svg" alt="Rust" width="25" height="25" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> <a href="https://redux.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/redux.svg" alt="Redux" width="25" height="25" /></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://firebase.google.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/firebase.svg" alt="Firebase" width="25" height="25" /></a>
+<p align="left">
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener">
+    <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="35" height="35"/>
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener">
+    <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="TypeScript" width="35" height="35"/>
+  </a>
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener">
+    <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="35" height="35"/>
+  </a>
+  <a href="https://reactnative.dev" target="_blank" rel="noreferrer noopener">
+    <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react-native.svg" alt="React Native" width="35" height="35"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener">
+    <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="Node.js" width="35" height="35"/>
+  </a>
+</p>
 
-ϟ Reach out to me :) <a href="https://cicatriz.dev" alt="personal web site" target="_blank" rel="noreferrer noopener">click here</a>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cicatrizdev&show_icons=true&theme=dark&hide_border=true" alt="Pedro's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicatrizdev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
