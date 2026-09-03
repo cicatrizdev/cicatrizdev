@@ -14,5 +14,5 @@
 
 - 📍 Based in **Brazil**
 - 🚀 Currently crafting amazing apps at [X-Team](https://github.com/x-team) & [Cosm](https://github.com/cosm-eng)
-- 🎓 Instructor at [Alura](https://www.alura.com.br)
+- 🎓 Instructor at [Alura](https://mkt.alura.com.br/pedro-celestino-de-mello)
 - 💬 Always happy to connect — [reach out here](https://cicatriz.dev)
